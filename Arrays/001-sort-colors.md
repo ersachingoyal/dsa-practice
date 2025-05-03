@@ -2,7 +2,7 @@
 
 **Problem Link:** [LeetCode- Sort Colors](https://leetcode.com/problems/sort-colors/description/)
 
-## Soltuion
+## Solution
 
 ```cpp
 
